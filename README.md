@@ -6,3 +6,5 @@ No momento estou dedicando meus estudos ao Flutter e todos os recursos que a lin
 ## Ferramentas e Tecnologias
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<i class="devicon-azure-plain-wordmark colored"></i>
+
