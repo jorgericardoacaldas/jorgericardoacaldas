@@ -1,5 +1,6 @@
 ## Olá, me chamo Jorge Ricardo e meu nickname é jorgericardoacaldas 👋
 
+Sou desenvolvedor full stack, com habilidades em desenvolvimento mobile e backend, utilizando as tecnologias .Net, C#, Dart e Flutter.
 Atualmente estou trabalhando em um projeto mobile, desenvolvido em C# e Xamarin, porem como a tecnologia será descontinuada, estamos trabalhando em um projeto de migração do aplicativo para Flutter.
 No momento estou dedicando meus estudos ao Flutter e todos os recursos que a linguagem Dart nos oferece para desenvolvimento mobile e multiplataforma.
 
